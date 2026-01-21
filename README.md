@@ -33,8 +33,8 @@ A powerful web-based PDF compression tool built with Streamlit. Supports bulk up
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/SEOptimize-LLC/pdf-compressor.git
-cd pdf-compressor
+git clone https://github.com/SEOptimize-LLC/PDF-file-compression-tool.git
+cd PDF-file-compression-tool
 ```
 
 2. Install Python dependencies:
@@ -102,7 +102,7 @@ The application will open in your default browser at `http://localhost:8501`
 git init
 git add .
 git commit -m "Initial commit"
-git remote add origin https://github.com/SEOptimize-LLC/pdf-compressor.git
+git remote add origin https://github.com/SEOptimize-LLC/PDF-file-compression-tool.git
 git push -u origin main
 ```
 
@@ -110,7 +110,7 @@ git push -u origin main
 
 3. Click "New app"
 
-4. Select your repository: `SEOptimize-LLC/pdf-compressor`
+4. Select your repository: `SEOptimize-LLC/PDF-file-compression-tool`
 
 5. Set main file path: `app.py`
 
@@ -230,7 +230,7 @@ MIT License - See LICENSE file for details
 ## Support
 
 For issues, questions, or suggestions:
-- Open an issue on [GitHub](https://github.com/SEOptimize-LLC/pdf-compressor/issues)
+- Open an issue on [GitHub](https://github.com/SEOptimize-LLC/PDF-file-compression-tool/issues)
 - Contact: SEOptimize LLC
 
 ## Acknowledgments
